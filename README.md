@@ -9,3 +9,5 @@
 * mpg123
 
 I think I did a custom brew install of sdl2_mixer, I'm not 100% sure if that's required.
+
+Tested on macOS.
